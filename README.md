@@ -240,8 +240,6 @@ flowchart TD
     F --> G[Pharmacy Interpretation]
     G --> H[Errors / Delays]
     D --> I[File Stored Locally]
-
-
 ---
 
 ### 🚀 To-Be (EHR State)
@@ -256,4 +254,24 @@ flowchart TD
     F --> G[e-Prescription]
     G --> H[Automated Validation]
     D --> I[Centralised Record Storage]
+---
 
+## 11. Solution Architecture
+
+```mermaid
+flowchart LR
+
+    A[Clinician Devices] --> B[EHR System]
+    C[Admin Systems] --> B
+
+    B --> D[Clinical Decision Support]
+    B --> E[Patient Database]
+
+    B --> F[Integration Layer]
+
+    F --> G[Lab System]
+    F --> H[Radiology]
+    F --> I[Pharmacy]
+
+    B --> J[Access Control]
+    B --> K[Audit Logs]
