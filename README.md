@@ -240,4 +240,3 @@ flowchart TD
     F --> G[Pharmacy Interpretation]
     G --> H[Errors / Delays]
     D --> I[File Stored Locally]
----
