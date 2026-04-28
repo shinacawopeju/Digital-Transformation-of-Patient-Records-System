@@ -225,6 +225,23 @@ Recurring: £750,000/year
 - Compliance validation  
 
 ---
+## As-Is Current State 
+
+![EHR Architecture](https://drive.google.com/uc?export=view&id=1XkAHSdaXHU01_byynhAyZfsXdSGZBdzQ)
+
+---
+
+##To-BE (EHR STATE) Future State 
+
+![EHR Diagram](https://drive.google.com/uc?export=view&id=1Q0kHj-SFYCHz6CZb1lWjjP7Y6pHU4Fa9)
+
+---
+## Solution Architecture
+
+![EHR Diagram](https://drive.google.com/uc?export=view&id=1SAGcEnOduftOFkXmO_7qLNjciD4Q8yvV)
+
+---
+
 
 ## 10. Governance Structure
 
