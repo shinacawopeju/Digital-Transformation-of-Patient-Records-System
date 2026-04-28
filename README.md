@@ -240,3 +240,20 @@ flowchart TD
     F --> G[Pharmacy Interpretation]
     G --> H[Errors / Delays]
     D --> I[File Stored Locally]
+
+
+---
+
+### 🚀 To-Be (EHR State)
+
+```mermaid
+flowchart TD
+    A[Patient Arrives] --> B[Digital Check-in]
+    B --> C[Instant Record Access]
+    C --> D[Doctor Reviews Data]
+    D --> E[Digital Documentation]
+    E --> F[Decision Support Alerts]
+    F --> G[e-Prescription]
+    G --> H[Automated Validation]
+    D --> I[Centralised Record Storage]
+
