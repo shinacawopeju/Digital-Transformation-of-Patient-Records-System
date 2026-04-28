@@ -226,17 +226,42 @@ Recurring: £750,000/year
 
 ---
 
-## 10. Process Flow Diagrams
+## 10. Governance Structure
 
-### 📍 As-Is (Current State)
+| Role               | Responsibility          |
+|--------------------|------------------------|
+| Sponsor            | Executive oversight    |
+| Programme Director | Delivery               |
+| Clinical Lead      | Clinical alignment     |
+| Change Manager     | Adoption               |
+| Business Analyst   | Requirements & benefits|
+| Board              | Governance             |
 
-```mermaid
-flowchart TD
-    A[Patient Arrives] --> B[Paper File Created]
-    B --> C[Wait Time]
-    C --> D[Doctor Consultation]
-    D --> E[Manual Notes]
-    E --> F[Handwritten Prescription]
-    F --> G[Pharmacy Interpretation]
-    G --> H[Errors / Delays]
-    D --> I[File Stored Locally]
+---
+
+## 11. Conclusion & Recommendation
+
+Meridian Hospital faces:
+
+- £4.2M annual losses  
+- Increasing clinical risk  
+- Regulatory pressure  
+
+> The issue is not technology — it is delivery.
+
+### ✅ Recommendation
+
+Approve **Full EHR Implementation with Change Management**
+
+### 📌 Actions Required
+
+- Approve funding  
+- Appoint sponsor  
+- Initiate procurement  
+
+---
+
+## 👤 Author
+
+**Shina Awopeju**  
+Business Analyst  
