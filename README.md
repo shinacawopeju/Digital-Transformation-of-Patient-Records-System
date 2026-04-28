@@ -1,4 +1,4 @@
-# Digital-Transformation-of-Patient-Records-System (Electronic Health Records (EHR) Implementation )
+Electronic Health Records (EHR) Implementation 
 Business case for transforming a hospital’s paper-based patient records into a fully integrated EHR system. Addresses £4.2M annual losses, rising medication errors, and compliance risks through change-led implementation, delivering improved patient safety, efficiency, and ROI within 3–4 years.
 # 📊 Electronic Health Records (EHR) Implementation  
 ### Meridian Hospital – Business Case Portfolio Project
@@ -20,10 +20,8 @@ Business case for transforming a hospital’s paper-based patient records into a
 - [7. Financial Analysis](#7-financial-analysis)
 - [8. Risk Register](#8-risk-register)
 - [9. Implementation Plan (12 Months)](#9-implementation-plan-12-months)
-- [10. Process Flow Diagrams](#10-process-flow-diagrams)
-- [11. Solution Architecture](#11-solution-architecture)
-- [12. Governance Structure](#12-governance-structure)
-- [13. Conclusion & Recommendation](#13-conclusion--recommendation)
+- [10. Governance Structure](#12-governance-structure)
+- [11. Conclusion & Recommendation](#13-conclusion--recommendation)
 - [Author](#author)
 
 ---
